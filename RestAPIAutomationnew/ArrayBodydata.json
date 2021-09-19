@@ -1,0 +1,19 @@
+{
+  "firstname": "kanikasanjay",
+  "Company name": "roundclassonejhjh",
+  "Address": [
+    {
+      "houseno": "12",
+      "landmark": "sector23",
+      "type": "Primary address"
+    },
+    {
+      "houseno": "12",
+      "landmark": "sector23",
+      "type": "Seconary address"
+    }
+  ],
+  "id": "20009799799",
+  "age": "312",
+  "lastname": "vermasharma"
+}
