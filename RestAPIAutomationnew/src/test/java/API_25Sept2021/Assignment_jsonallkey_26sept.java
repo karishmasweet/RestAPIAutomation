@@ -25,6 +25,7 @@ public class Assignment_jsonallkey_26sept
 	int length=js.length();
 	
 	for(int i=0;i<length;i++)
+		
 	{
 		JSONObject ob=js.getJSONObject(i);
 		System.out.println("id is "+ob.get("id"));
